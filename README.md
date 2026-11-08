@@ -1,17 +1,22 @@
-# Hi, I'm Omar Tarek 👋
+# Omar Tarek 👋
 
-Software Test Engineer focused on building reliable software through automation, API, database, and performance testing. I work with Java, Selenium, Playwright, and GitHub Actions, and I also have a background in embedded systems.
+**Software Test Engineer | Automation, API Testing & CI/CD**
+
+I build structured tests for web and API workflows using Java UI automation, Postman test scripts, and CI execution. My projects demonstrate reusable Selenium tests with the Page Object Model, plus API suites covering positive and negative scenarios, request chaining, and response assertions. I also have a background in C-based embedded systems.
+
+## Testing Toolkit
+
+- **UI automation:** Java, Selenium, TestNG, Maven, Page Object Model (POM), Playwright
+- **API testing:** Postman, JavaScript test scripts, Newman, request chaining, positive and negative scenarios
+- **CI/CD:** GitHub Actions
+- **Additional focus:** Manual testing, database testing, performance testing
 
 ## Featured Projects
 
 - [AutomationTesting_WITH_CI](https://github.com/Omartarek876/AutomationTesting_WITH_CI) — Java test automation with GitHub Actions
-- [GS_AutomationFramework](https://github.com/Omartarek876/GS_AutomationFramework) — Selenium, TestNG, and Allure
-- [API_Testing](https://github.com/Omartarek876/API_Testing) — API testing project
+- [Selenium_Framework_POM_Based](https://github.com/Omartarek876/Selenium_Framework_POM_Based) — Modular Selenium framework using Java, TestNG, Maven, and POM
+- [API_Testing](https://github.com/Omartarek876/API_Testing) — Postman suites for AutomationExercise and Trello with positive and negative cases, response assertions, and request chaining
 - [Embedded_Systems_Projects](https://github.com/Omartarek876/Embedded_Systems_Projects) — Embedded systems projects in C
-
-## Focus Areas
-
-Test Automation · Manual Testing · API Testing · Database Testing · Performance Testing · CI/CD
 
 ## Connect
 
