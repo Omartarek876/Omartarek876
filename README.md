@@ -33,4 +33,4 @@ I use AI tools to support test design, automation scripting, and debugging, and 
 ## How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/omar-tarek-495ba6217)
-- [Gmail](mailto:omarrtarek74@gmail.com)
+- [(mailto:omarrtarek74@gmail.com)]
