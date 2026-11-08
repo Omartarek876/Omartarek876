@@ -1,24 +1,39 @@
 # Omar Tarek 👋
 
-**Software Test Engineer | Automation, API Testing & CI/CD**
+**Software Test Automation Engineer | UI, API, Database & Performance Testing | Java, Selenium, Playwright & CI/CD**
 
-I build structured tests for web and API workflows using Java UI automation, Postman test scripts, and CI execution. My projects demonstrate reusable Selenium tests with the Page Object Model, plus API suites covering positive and negative scenarios, request chaining, and response assertions. I also have a background in C-based embedded systems.
+## About Me
+
+I’m a Software Test Automation Engineer and Computer Engineering graduate based in Cairo, Egypt. Through software testing internships at Giza Systems and Valeo, I’ve worked with QA and engineering teams on requirements analysis, test design and execution, defect reporting, verification, and regression testing.
+
+My testing experience includes manual testing and UI automation, API testing with Postman, and database testing to check data accuracy and integrity. I build UI automation with Java and Selenium using TestNG, Maven, and the Page Object Model, and I also work with Playwright and TypeScript. I’ve integrated automated suites into GitHub Actions and used Allure reports to communicate test results.
+
+I use AI tools to support test design, automation scripting, and debugging, while reviewing their output to keep test coverage and results reliable. I continue to develop my skills across web, API, database, and performance testing, including using JMeter to simulate concurrent users and analyze response time, throughput, and error rates.
 
 ## Testing Toolkit
 
-- **UI automation:** Java, Selenium, Playwright, TestNG, Maven, Page Object Model (POM), Fluent Design
-- **API testing:** Postman, JavaScript test scripts, Newman, request chaining, positive and negative scenarios
-- **CI/CD:** GitHub Actions
-- **Additional focus:** Manual testing, database testing, performance testing
+- **UI automation:** Java, Selenium WebDriver, Playwright with TypeScript, TestNG, Maven, Page Object Model (POM), Fluent design
+- **Manual testing:** Functional, regression, and exploratory testing; test case design; defect reporting and verification
+- **API testing:** Postman, JavaScript test scripts, REST APIs, positive and negative scenarios, assertions, environment variables, and request chaining
+- **Database testing:** SQL, MySQL, PostgreSQL, CRUD validation, data integrity, and consistency checks
+- **Performance testing:** JMeter fundamentals; concurrent user simulation and analysis of response time, throughput, and error rates
+- **CI/CD and reporting:** GitHub Actions, Maven, Allure Reports
+- **AI in testing:** AI-assisted test design, automation scripting, and debugging with human review
+- **Other tools:** Jira, Azure DevOps, Git, GitHub
 
 ## Featured Projects
 
-- [AutomationTesting_WITH_CI](https://github.com/Omartarek876/AutomationTesting_WITH_CI) — Java test automation with GitHub Actions
-- [API_Testing](https://github.com/Omartarek876/API_Testing) — Postman suites for AutomationExercise and Trello with positive and negative cases, response assertions, and request chaining
-- [Embedded_Systems_Projects](https://github.com/Omartarek876/Embedded_Systems_Projects) — Embedded systems projects in C
+- [AutomationTesting_WITH_CI](https://github.com/Omartarek876/AutomationTesting_WITH_CI) — Modular Java UI automation with reusable page objects and GitHub Actions CI execution.
+- [API_Testing](https://github.com/Omartarek876/API_Testing) — Postman suites for AutomationExercise and Trello, including positive and negative scenarios, assertions, and request chaining.
+- [automotive_graduation_project](https://github.com/Omartarek876/automotive_graduation_project) — Computer engineering graduation project combining automotive safety features, embedded hardware, and a mobile application.
+- [Embedded_Systems_Projects](https://github.com/Omartarek876/Embedded_Systems_Projects) — Embedded systems projects developed in C.
 
-## Connect
+## Certificates
 
-[LinkedIn](https://www.linkedin.com/in/omar-tarek-495ba6217)
+- **ISTQB Certified Tester Foundation Level (CTFL) v4.0** — Code: 250925044
+- **ISTQB Certified Tester Mobile Application Tester (CT-MAT)** — Code: 251209020
 
-[Gmail: omarrtarek74@gmail.com](mailto:omarrtarek74@gmail.com)
+## How to reach me
+
+- [LinkedIn](https://www.linkedin.com/in/omar-tarek-495ba6217)
+- [Email](mailto:omarrtarek74@gmail.com) — omarrtarek74@gmail.com
