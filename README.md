@@ -1,14 +1,14 @@
 # Omar Tarek 👋
 
-**Software Test Automation Engineer | UI, API, Database & Performance Testing | Java, Selenium, Playwright & CI/CD**
+**Software Test Automation Engineer | Automation, API, Database & Performance Testing | Java, Selenium, Playwright & CI/CD**
 
 ## About Me
 
-I’m a Software Test Automation Engineer and Computer Engineering graduate based in Cairo, Egypt. Through software testing internships at Giza Systems and Valeo, I’ve worked with QA and engineering teams on requirements analysis, test design and execution, defect reporting, verification, and regression testing.
+I’m an ISTQB-certified Software Test Automation Engineer with experience in software quality assurance across manual and automation testing. During internships at Giza Systems and Valeo, I contributed to requirements analysis, test design and execution, defect reporting and verification, regression testing, and collaboration with QA and development teams.
 
-My testing experience includes manual testing and UI automation, API testing with Postman, and database testing to check data accuracy and integrity. I build UI automation with Java and Selenium using TestNG, Maven, and the Page Object Model, and I also work with Playwright and TypeScript. I’ve integrated automated suites into GitHub Actions and used Allure reports to communicate test results.
+I work across automation testing with Java and Selenium using TestNG, Maven, and the Page Object Model, as well as Playwright with TypeScript. My experience also includes API testing with Postman, database checks for data accuracy and integrity, and integrating automated suites into GitHub Actions with Allure reporting.
 
-I use AI tools to support test design, automation scripting, and debugging, while reviewing their output to keep test coverage and results reliable. I continue to develop my skills across web, API, database, and performance testing, including using JMeter to simulate concurrent users and analyze response time, throughput, and error rates.
+I use AI tools to support test design, automation scripting, and debugging, and review their output to keep test coverage and results reliable. For performance testing, I use JMeter to simulate concurrent users and analyze response time, throughput, and error rates.
 
 ## Testing Toolkit
 
@@ -23,7 +23,7 @@ I use AI tools to support test design, automation scripting, and debugging, whil
 
 ## Featured Projects
 
-- [AutomationTesting_WITH_CI](https://github.com/Omartarek876/AutomationTesting_WITH_CI) — Modular Java UI automation with reusable page objects and GitHub Actions CI execution.
+- [AutomationTesting_WITH_CI](https://github.com/Omartarek876/AutomationTesting_WITH_CI) — Modular Java automation testing with reusable page objects and GitHub Actions CI execution.
 
 ## Certificates
 
