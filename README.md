@@ -1,4 +1,4 @@
-# Omar Tarek 👋
+# Hi 👋 I'm Omar Tarek 
 
 **Software Test Automation Engineer**
 
