@@ -21,3 +21,4 @@ I build structured tests for web and API workflows using Java UI automation, Pos
 
 [LinkedIn](https://www.linkedin.com/in/omar-tarek-495ba6217)
 
+[Gmail: omarrtarek74@gmail.com](mailto:omarrtarek74@gmail.com)
