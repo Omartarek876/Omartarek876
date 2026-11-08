@@ -12,21 +12,18 @@ I use AI tools to support test design, automation scripting, and debugging, whil
 
 ## Testing Toolkit
 
-- **UI automation:** Java, Selenium WebDriver, Playwright with TypeScript, TestNG, Maven, Page Object Model (POM), Fluent design
-- **Manual testing:** Functional, regression, and exploratory testing; test case design; defect reporting and verification
-- **API testing:** Postman, JavaScript test scripts, REST APIs, positive and negative scenarios, assertions, environment variables, and request chaining
-- **Database testing:** SQL, MySQL, PostgreSQL, CRUD validation, data integrity, and consistency checks
-- **Performance testing:** JMeter fundamentals; concurrent user simulation and analysis of response time, throughput, and error rates
-- **CI/CD and reporting:** GitHub Actions, Maven, Allure Reports
+- **Automation testing:** Java, Selenium WebDriver, Playwright with TypeScript, TestNG, Maven, Page Object Model (POM), Fluent design
 - **AI in testing:** AI-assisted test design, automation scripting, and debugging with human review
+- **Performance testing:** JMeter fundamentals; concurrent user simulation and analysis of response time, throughput, and error rates
+- **API testing:** Postman, JavaScript test scripts, REST APIs, positive and negative scenarios, assertions, environment variables, and request chaining
+- **Manual testing:** Functional, regression, and exploratory testing; test case design; defect reporting and verification
+- **Database testing:** SQL, MySQL, PostgreSQL, CRUD validation, data integrity, and consistency checks
+- **CI/CD and reporting:** GitHub Actions, Maven, Allure Reports
 - **Other tools:** Jira, Azure DevOps, Git, GitHub
 
 ## Featured Projects
 
 - [AutomationTesting_WITH_CI](https://github.com/Omartarek876/AutomationTesting_WITH_CI) — Modular Java UI automation with reusable page objects and GitHub Actions CI execution.
-- [API_Testing](https://github.com/Omartarek876/API_Testing) — Postman suites for AutomationExercise and Trello, including positive and negative scenarios, assertions, and request chaining.
-- [automotive_graduation_project](https://github.com/Omartarek876/automotive_graduation_project) — Computer engineering graduation project combining automotive safety features, embedded hardware, and a mobile application.
-- [Embedded_Systems_Projects](https://github.com/Omartarek876/Embedded_Systems_Projects) — Embedded systems projects developed in C.
 
 ## Certificates
 
@@ -36,4 +33,4 @@ I use AI tools to support test design, automation scripting, and debugging, whil
 ## How to reach me
 
 - [LinkedIn](https://www.linkedin.com/in/omar-tarek-495ba6217)
-- [Email](mailto:omarrtarek74@gmail.com) — omarrtarek74@gmail.com
+- [Gmail](mailto:omarrtarek74@gmail.com)
