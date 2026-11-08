@@ -6,7 +6,7 @@ I build structured tests for web and API workflows using Java UI automation, Pos
 
 ## Testing Toolkit
 
-- **UI automation:** Java, Selenium, TestNG, Maven, Page Object Model (POM), Playwright
+- **UI automation:** Java, Selenium, Playwright, TestNG, Maven, Page Object Model (POM), Fluent Design
 - **API testing:** Postman, JavaScript test scripts, Newman, request chaining, positive and negative scenarios
 - **CI/CD:** GitHub Actions
 - **Additional focus:** Manual testing, database testing, performance testing
@@ -14,10 +14,10 @@ I build structured tests for web and API workflows using Java UI automation, Pos
 ## Featured Projects
 
 - [AutomationTesting_WITH_CI](https://github.com/Omartarek876/AutomationTesting_WITH_CI) — Java test automation with GitHub Actions
-- [Selenium_Framework_POM_Based](https://github.com/Omartarek876/Selenium_Framework_POM_Based) — Modular Selenium framework using Java, TestNG, Maven, and POM
 - [API_Testing](https://github.com/Omartarek876/API_Testing) — Postman suites for AutomationExercise and Trello with positive and negative cases, response assertions, and request chaining
 - [Embedded_Systems_Projects](https://github.com/Omartarek876/Embedded_Systems_Projects) — Embedded systems projects in C
 
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/omar-tarek-495ba6217)
+
