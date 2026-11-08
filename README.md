@@ -1,6 +1,6 @@
 # Omar Tarek 👋
 
-**Software Test Automation Engineer | Automation, API, Database & Performance Testing | Java, Selenium, Playwright & CI/CD**
+**Software Test Automation Engineer**
 
 ## About Me
 
