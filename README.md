@@ -2,6 +2,9 @@
 
 **Software Test Automation Engineer**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Omar%20Tarek-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-tarek-495ba6217)
+[![GitHub](https://img.shields.io/badge/GitHub-Omartarek876-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Omartarek876)
+
 ## About Me
 
 I’m an ISTQB-certified Software Test Automation Engineer with experience in software quality assurance across manual and automation testing. During internships at Giza Systems and Valeo, I contributed to requirements analysis, test design and execution, defect reporting and verification, regression testing, and collaboration with QA and development teams.
