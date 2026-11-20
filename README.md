@@ -26,7 +26,9 @@ I use AI tools to support test design, automation scripting, and debugging, and 
 
 ## Featured Projects
 
-- [AutomationTesting_WITH_CI](https://github.com/Omartarek876/AutomationTesting_WITH_CI) — Modular Java automation testing with reusable page objects and GitHub Actions CI execution.
+- [E2E_AutomationTesting_WITH_CI](https://github.com/Omartarek876/E2E_AutomationTesting_WITH_CI) — Modular Java automation testing with reusable page objects and GitHub Actions CI execution.
+- [API_Testing](https://github.com/Omartarek876/API_Testing) — Postman API test suites for the AutomationExercise and Trello APIs, covering positive and negative scenarios across GET, POST, PUT, and DELETE with automated JavaScript assertions on status codes, response bodies, headers, and response time. Built with environment variables, request chaining, and optional Newman command-line runs to keep the suites reusable in any environment.
+- [Embedded_Systems_Projects](https://github.com/Omartarek876/Embedded_Systems_Projects) — Ten embedded projects across C, C++, Assembly, and Python, from ATmega32 drivers and a full AUTOSAR Port and DIO driver to Embedded Linux, a mines detector robot, and a door-lock security system. Low-level microcontroller programming alongside applied hardware systems like a hardware clock and alarm, a distance measurement system, and a fan speed controller.
 
 ## Certificates
 
