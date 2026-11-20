@@ -39,4 +39,4 @@ I use AI tools to support test design, automation scripting, and debugging, and 
 
 - [LinkedIn](https://www.linkedin.com/in/omar-tarek-495ba6217)
 - omarrtarek74@gmail.com
-- WhatsApp: 01114934091 | 01034092892
+- WhatsApp: 01034092892
